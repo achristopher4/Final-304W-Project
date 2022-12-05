@@ -2,7 +2,7 @@
 
 The code can be run by directly running main.py
 
-The following files are defined as follows:
+The contained files are defined as follows:
 - Autoencoder - steel.py contains the autoencoder architecture used for this project. This file is not ran directly when running main.py, and is only contained to show how the autoencoder is made.
 - Autoencoder_sample.py is an example of loading a saved autoencoder model from a file and then using it to reconstruct new data.
 - Classification.py contains the functions used by the Classification class which trains and runs the model.
